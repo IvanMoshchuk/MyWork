@@ -2,8 +2,8 @@
   "name": "Ramonki.by",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
-  "keywords": [],
+  "scripts": 
+  { "npx playwright test"} "Runs the end-to-end tests",
   "author": "Moshchuk Ivan",
   "license": "ISC",
   "devDependencies": {
@@ -18,11 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IvanMoshchuk/MyWork.git"
+    "url": "https://github.com/IvanMoshchuk/MyWork.git"
   },
-  "bugs": {
-    "url": "https://github.com/IvanMoshchuk/MyWork/issues"
-  },
+
   "homepage": "https://github.com/IvanMoshchuk/MyWork#readme",
   "description": ""
-}
+

@@ -11,3 +11,7 @@
 1. playwright: ^1.49.0,
 2. playwright-core: ^1.49.0,
 3. undici-types: ^6.19.8
+
+Комманда необходимая для запуска теста через Power Shell
+-
+npx playwright test
